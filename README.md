@@ -1,10 +1,10 @@
-# Blue-Sword-Intelligence
+# ⚔️ Blue Sword Intelligence
 
-# 👋 Hi, I'm NinjaGirl 👩‍💻  
-🔹 Cyber Security Enthusiast | Aspiring Digital Forensics & Penetration Tester  
+# Julie Wolf
+🛡️ Cyber Security | Digital Forensics & Artificial Intelligence & Machine Learning  🤖⚡🧠 
 
 ## 🔥 About Me  
-💡 Studying **Computer Science & Cyber Security**  
+💡 Studying **Computer Science BSc University of London**  
 🛠️ Learning **Pentesting, Digital Forensics & Incident Response**  
 🎯 Goal: Becoming a **Cyber Security Professional**  
 
