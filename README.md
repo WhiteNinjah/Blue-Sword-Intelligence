@@ -3,7 +3,7 @@
 # Julie Wolf
 🛡️ Cyber Security | Digital Forensics & Artificial Intelligence & Machine Learning  🤖⚡🧠 
 
-## 🔥 About Me  
+##  About Me  
 💡 Studying **Computer Science BSc University of London**  
 🛠️ Learning **Pentesting, Digital Forensics & Incident Response**  
 🎯 Goal: Becoming a **Cyber Security Professional**  
