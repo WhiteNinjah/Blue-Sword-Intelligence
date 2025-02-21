@@ -15,7 +15,15 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=kalilinux)  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)  
 ![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=nmap)  
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?&logo=burpsuite)  
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?&logo=burpsuite) 
+![Autopsy](https://img.shields.io/badge/-Autopsy-000?&logo=autopsy)  
+![Volatility](https://img.shields.io/badge/-Volatility-000?&logo=volatility)  
+![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=metasploit)  
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-000?&logo=johntheripper)  
+![Hashcat](https://img.shields.io/badge/-Hashcat-000?&logo=hashcat)  
+![Splunk](https://img.shields.io/badge/-Splunk-000?&logo=splunk)  
+![Suricata](https://img.shields.io/badge/-Suricata-000?&logo=suricata)  
+
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)  
 
 ---
