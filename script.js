@@ -6,6 +6,23 @@ document.addEventListener("DOMContentLoaded", function() {
     matrixContainer.classList.add("matrix-background");
     document.body.appendChild(matrixContainer);
 
+
+function checkPassword() {
+    const input = document.getElementById("hacker-input").value;
+    const result = document.getElementById("result");
+
+    if (input === "blueSword42") {
+        result.innerHTML = "✅ Access Granted! You are now in the system.";
+        result.style.color = "lime";
+    } else {
+        result.innerHTML = "❌ Access Denied. Try again.";
+        result.style.color = "red";
+    }
+}
+
+
+
+    
     const matrixSymbols = "0123456789ABCDEF";
     for (let i = 0; i < 200; i++) {
         let symbol = document.createElement("div");
@@ -20,15 +37,3 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-function checkPassword() {
-    const input = document.getElementById("hacker-input").value;
-    const result = document.getElementById("result");
-
-    if (input === "blueSword42") {
-        result.innerHTML = "✅ Access Granted! You are now in the system.";
-        result.style.color = "lime";
-    } else {
-        result.innerHTML = "❌ Access Denied. Try again.";
-        result.style.color = "red";
-    }
-}
