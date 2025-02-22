@@ -65,8 +65,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Scraping & analyzing **dark web** forums for potential threats & leaks  
 🔹 **[🔑 Cryptography & Steganography Analysis](https://github.com/YOUR-USERNAME/crypto-stegano-lab)**  
 &nbsp;&nbsp;&nbsp;&nbsp;Breaking encrypted files & extracting hidden data using **OpenSSL & Steghide**  
-🔹 **[📜 CTF Writeups](https://github.com/YOUR-USERNAME/ctf-writeups)**  
-&nbsp;&nbsp;&nbsp;&nbsp;My **solutions & methodology** for cybersecurity Capture-the-Flag challenges  
 
 
 
