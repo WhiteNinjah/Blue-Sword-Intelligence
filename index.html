@@ -56,13 +56,26 @@
 <section id="music">
     <h2>🎵 My Music</h2>
     <p>Check out my track: <strong>Lost in Elevation</strong></p>
-    <iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/xNjyG8S4_kI" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+
+    <iframe id="ytplayer" width="560" height="315"
+        src="https://www.youtube.com/embed/xNjyG8S4_kI?enablejsapi=1&autoplay=1"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen>
     </iframe>
+
 </section>
+
+<script>
+    function playVideo() {
+        var iframe = document.getElementById("ytplayer").contentWindow;
+        iframe.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
+    }
+
+    window.onload = function() {
+        setTimeout(playVideo, 2000); // Delay to increase autoplay success rate
+    };
+</script>
 
 </body>
 
