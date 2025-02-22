@@ -1,4 +1,4 @@
-#                                          ⚔️ Blue Sword Intelligence 
+# ⚔️ Blue Sword Intelligence 
 
 ## About me:
    Hello, welcome to my Portfolio, I am Julie Wolf 🐺
