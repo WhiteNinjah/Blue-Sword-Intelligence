@@ -1,4 +1,4 @@
-# ⚔️ Blue Sword Intelligence
+# ⚔️ Blue Sword Intelligence  <img src= https://files.oaiusercontent.com/file-PK3unsvpw8igBw3SiS9qoR?se=2025-02-22T00%3A20%3A42Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D9ff403d6-eb95-475e-8b03-316bfe864f98.webp&sig=GmbEPaHLgraYuVOtwTFYQCI9pPztrXMEy/AH2hKmnmY%3D.pgn width="50">
 
 # Julie Wolf
 🛡️ Cyber Security | Digital Forensics | Artificial Intelligence & Machine Learning  🤖⚡🧠 
