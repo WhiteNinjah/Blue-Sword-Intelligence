@@ -53,28 +53,27 @@
     <footer>
         <p>📌 <a href="https://linkedin.com/in/YOUR-USERNAME">LinkedIn</a> | 📌 <a href="https://twitter.com/YOUR-USERNAME">Twitter</a> | 📧 your.email@example.com</p>
     </footer>
-<section id="music">
-    <h2>🎵 My Music</h2>
-    <p>Check out my track: <strong>Lost in Elevation</strong></p>
 
-    <iframe id="ytplayer" width="560" height="315"
-        src="https://www.youtube.com/embed/xNjyG8S4_kI?enablejsapi=1&autoplay=1"
-        title="YouTube video player" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen>
-    </iframe>
+    
+    
+    <section <section id="music">
+    <h2>🎵 Background Music</h2>
+    <p>Now playing: <strong>Elevator Music</strong></p>
 
+    <audio id="bg-music" autoplay loop>
+        <source src="music/FREE SOUND EFFECT - ELEVATOR MUSIC [NO COPYRIGHT] 4.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
 </section>
 
 <script>
-    function playVideo() {
-        var iframe = document.getElementById("ytplayer").contentWindow;
-        iframe.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
-    }
+    document.addEventListener("DOMContentLoaded", function() {
+        var music = document.getElementById("bg-music");
+        music.volume = 0.5; // Adjust volume (0.0 - 1.0)
+        music.play().catch(error => console.log("Autoplay blocked: User interaction needed"));
+    });
+</script>
 
-    window.onload = function() {
-        setTimeout(playVideo, 2000); // Delay to increase autoplay success rate
-    };
 </script>
 
 </body>
