@@ -3,7 +3,6 @@
 # Julie Wolf
 🛡️ Cyber Security | Digital Forensics & Artificial Intelligence & Machine Learning  🤖⚡🧠 
 
----
 
 ## 🛠️ Technologies & Tools  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)  
