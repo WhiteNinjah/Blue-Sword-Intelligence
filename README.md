@@ -47,8 +47,19 @@
 
 ## 🔍 My Projects  
 🔹 **[Malware Analysis Lab](https://github.com/YOUR-USERNAME/malware-lab)** – Reverse-Engineering von Malware  
-🔹 **[CTF Writeups](https://github.com/YOUR-USERNAME/ctf-writeups)** – Lösungen & Erklärungen zu Capture-the-Flag-Challenges  
-🔹 **[Automated CyberSec Scripts](https://github.com/YOUR-USERNAME/cybersec-scripts)** – Security-Tools mit Python & Bash  
+🔹 **[Automated CyberSec Scripts](https://github.com/YOUR-USERNAME/cybersec-scripts)** – Security-Tools mit Python & Bash
+   **📂 Forensic Image Analysis**  | Investigating & extracting data from forensic disk images using Autopsy & Volatility | Autopsy, Volatility, FTK Imager |
+| **🕵️‍♂️ OSINT Intelligence Dashboard**  | A real-world Open Source Intelligence (OSINT) research project collecting and analyzing data from public sources | OSINT, Maltego, SpiderFoot |
+| **🛡️ Malware Analysis Lab**  | Static & dynamic analysis of malware samples to detect malicious behavior | Wireshark, YARA, PEStudio, Cuckoo Sandbox |
+| **🔓 Password Cracking & Hash Analysis**  | Ethical password auditing using brute-force & dictionary attacks | John the Ripper, Hashcat |
+| **📡 Network Traffic Analysis**  | Investigating network packets to identify potential intrusions & anomalies | Wireshark, Zeek, Suricata |
+| **🔮 AI-Powered Phishing Detector**  | Analyzing email headers & metadata to identify phishing attempts | Python, AI, NLP, TensorFlow |
+| **👣 Windows Incident Response Toolkit**  | Investigating Windows artifacts (registry, logs, processes) to detect breaches | PowerShell, LogParser, Sysmon |
+| **🕶️ Dark Web Monitoring**  | Scraping & analyzing dark web forums for potential threats & leaks | OSINT, Tor, Python |
+| **🔑 Cryptography & Steganography Analysis**  | Breaking encrypted files & extracting hidden data from images | OpenSSL, Steghide, CyberChef |
+| **📜 CTF (Capture the Flag) Writeups**  | A collection of my solutions & methodology for cybersecurity challenges | Cybersecurity, CTF, HackTheBox |
+
+
 
 ---
 
