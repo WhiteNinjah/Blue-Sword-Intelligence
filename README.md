@@ -73,9 +73,10 @@
 ---
 
 ## 📚 Certifications & Learning  
+   **Bachelor in Cyber Security** (University of London) 
    **CompTIA Security+** (in progress)  
    **Network+** (in progress)  
-   **Bachelor in Cyber Security** (University of London)  
+    
 
 ---
 
