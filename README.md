@@ -6,7 +6,6 @@
 ##  About Me  
 💡 Studying **Computer Science BSc University of London**  
 🛠️ Learning **Pentesting, Digital Forensics & Incident Response**  
-🎯 Goal: Becoming a **Cyber Security Professional**  
 
 ---
 
