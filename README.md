@@ -44,24 +44,44 @@
 
 ## 🔍 My Projects  
 
-🔹 **[📂 Forensic Image Analysis](https://github.com/YOUR-USERNAME/forensic-image-analysis)**  
-&nbsp;&nbsp;&nbsp;&nbsp;Extracting & analyzing data from forensic disk images using **Autopsy & Volatility**  
-🔹 **[🕵️‍♂️ OSINT Intelligence Dashboard](https://github.com/YOUR-USERNAME/osint-dashboard)**  
-&nbsp;&nbsp;&nbsp;&nbsp;Collecting & analyzing public data using **OSINT tools like Maltego & SpiderFoot**  
-🔹 **[🛡️ Malware Analysis Lab](https://github.com/YOUR-USERNAME/malware-lab)**  
-&nbsp;&nbsp;&nbsp;&nbsp;Static & dynamic malware analysis with **Wireshark, YARA, and Cuckoo Sandbox**  
-🔹 **[🔓 Password Cracking & Hash Analysis](https://github.com/YOUR-USERNAME/password-cracking-lab)**  
-&nbsp;&nbsp;&nbsp;&nbsp;Ethical password auditing using **John the Ripper & Hashcat**  
-🔹 **[📡 Network Traffic Analysis](https://github.com/YOUR-USERNAME/network-traffic-analysis)**  
-&nbsp;&nbsp;&nbsp;&nbsp;Identifying intrusions & anomalies in network packets using **Wireshark & Suricata**  
-🔹 **[🔮 AI-Powered Phishing Detector](https://github.com/YOUR-USERNAME/phishing-detector)**  
-&nbsp;&nbsp;&nbsp;&nbsp;Using **AI & NLP** to detect phishing emails based on headers & metadata  
-🔹 **[👣 Windows Incident Response Toolkit](https://github.com/YOUR-USERNAME/windows-ir-toolkit)**  
-&nbsp;&nbsp;&nbsp;&nbsp;Investigating **Windows artifacts** (registry, logs, processes) for breach detection  
-🔹 **[🕶️ Dark Web Monitoring](https://github.com/YOUR-USERNAME/dark-web-monitoring)**  
-&nbsp;&nbsp;&nbsp;&nbsp;Scraping & analyzing **dark web** forums for potential threats & leaks  
-🔹 **[🔑 Cryptography & Steganography Analysis](https://github.com/YOUR-USERNAME/crypto-stegano-lab)**  
-&nbsp;&nbsp;&nbsp;&nbsp;Breaking encrypted files & extracting hidden data using **OpenSSL & Steghide**  
+## 🛠️ Technologies & Tools  
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)  
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=kalilinux)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)  
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?&logo=burpsuite)  
+![Nmap](https://img.shields.io/badge/-Nmap-000?&logo=nmap)  
+![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=metasploit)  
+![Autopsy](https://img.shields.io/badge/-Autopsy-000?&logo=autopsy)  
+![Splunk](https://img.shields.io/badge/-Splunk-000?&logo=splunk)  
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)  
+
+---
+
+## 🔍 My Projects  
+
+### **🔬 Digital Forensics & Incident Response**
+🔹 **[📂 Forensic Image Analysis](https://github.com/YOUR-USERNAME/forensic-image-analysis)** – Extracting & analyzing forensic disk images with **Autopsy & 
+          Volatility**  
+🔹 **[👣 Windows Incident Response Toolkit](https://github.com/YOUR-USERNAME/windows-ir-toolkit)** – Investigating **Windows artifacts** (registry, logs, 
+          processes) for breach detection  
+
+### **🕵️ Open Source Intelligence (OSINT) & Dark Web**
+🔹 **[🕵️‍♂️ OSINT Intelligence Dashboard](https://github.com/YOUR-USERNAME/osint-dashboard)** – Collecting & analyzing public data using **OSINT tools**  
+🔹 **[🕶️ Dark Web Monitoring](https://github.com/YOUR-USERNAME/dark-web-monitoring)** – Scraping & analyzing **dark web** forums for potential threats & leaks  
+
+### **🛡️ Cyber Security & Threat Analysis**
+🔹 **[🛡️ Malware Analysis Lab](https://github.com/YOUR-USERNAME/malware-lab)** – Malware research using **Wireshark & YARA**  
+🔹 **[📡 Network Traffic Analysis](https://github.com/YOUR-USERNAME/network-traffic-analysis)** – Intrusion detection with **Wireshark & Suricata**  
+🔹 **[🔓 Password Cracking & Hash Analysis](https://github.com/YOUR-USERNAME/password-cracking-lab)** – Ethical password auditing with **John the Ripper & Hashcat**  
+🔹 **[🔑 Cryptography & Steganography Analysis](https://github.com/YOUR-USERNAME/crypto-stegano-lab)** – Breaking encrypted files & extracting hidden data using 
+   **OpenSSL & Steghide**  
+
+### **🤖 AI & Cybersecurity Automation**
+🔹 **[🔮 AI-Powered Phishing Detector](https://github.com/YOUR-USERNAME/phishing-detector)** – AI & NLP for phishing email detection  
+
+---
+
+💡 *Curious to collaborate or learn more? Feel free to connect!*
 
 
 
