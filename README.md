@@ -1,6 +1,6 @@
 # ⚔️ Blue Sword Intelligence 
 
-# Julie Wolf
+  Julie Wolf
 🛡️ Cyber Security | Digital Forensics | Artificial Intelligence & Machine Learning  🤖⚡🧠 
 
 
