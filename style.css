@@ -22,3 +22,32 @@
     font-size: 16px;
     animation: matrix 5s linear infinite;
 }
+
+
+
+
+
+/* Cyberpunk-Button */
+.btn {
+    display: inline-block;
+    padding: 15px 30px;
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #fff;
+    background: linear-gradient(90deg, #00ffcc, #0066ff);
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 255, 255, 0.8);
+    transition: all 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background: linear-gradient(90deg, #ff0099, #ff6600);
+    box-shadow: 0 0 25px rgba(255, 0, 153, 0.8);
+}
+
+/* Cyberpunk Title Glow */
+header h1 {
+    font-size: 3rem;
+    text-shadow: 0 0 15px rgba(0, 255, 255, 0.9);
+}
