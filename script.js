@@ -10,4 +10,3 @@ function checkPassword() {
         result.style.color = "red";
     }
 }
-
