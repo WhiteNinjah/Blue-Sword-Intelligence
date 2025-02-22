@@ -46,18 +46,37 @@
 ---
 
 ## 🔍 My Projects  
-🔹 **[Malware Analysis Lab](https://github.com/YOUR-USERNAME/malware-lab)** – Reverse-Engineering von Malware  
-🔹 **[Automated CyberSec Scripts](https://github.com/YOUR-USERNAME/cybersec-scripts)** – Security-Tools mit Python & Bash
-🔹 **[📂 Forensic Image Analysis](https://github.com/YOUR-USERNAME/forensic-image-analysis)** – Extracting & analyzing data from forensic disk images using **Autopsy & Volatility**  
-🔹 **[🕵️‍♂️ OSINT Intelligence Dashboard](https://github.com/YOUR-USERNAME/osint-dashboard)** – Collecting & analyzing public data using **OSINT tools like Maltego & SpiderFoot**  
-🔹 **[🛡️ Malware Analysis Lab](https://github.com/YOUR-USERNAME/malware-lab)** – Static & dynamic malware analysis with **Wireshark, YARA, and Cuckoo Sandbox**  
-🔹 **[🔓 Password Cracking & Hash Analysis](https://github.com/YOUR-USERNAME/password-cracking-lab)** – Ethical password auditing using **John the Ripper & Hashcat**  
-🔹 **[📡 Network Traffic Analysis](https://github.com/YOUR-USERNAME/network-traffic-analysis)** – Identifying intrusions & anomalies in network packets using **Wireshark & Suricata**  
-🔹 **[🔮 AI-Powered Phishing Detector](https://github.com/YOUR-USERNAME/phishing-detector)** – Using **AI & NLP** to detect phishing emails based on headers & metadata  
-🔹 **[👣 Windows Incident Response Toolkit](https://github.com/YOUR-USERNAME/windows-ir-toolkit)** – Investigating **Windows artifacts** (registry, logs, processes) for breach detection  
-🔹 **[🕶️ Dark Web Monitoring](https://github.com/YOUR-USERNAME/dark-web-monitoring)** – Scraping & analyzing **dark web** forums for potential threats & leaks  
-🔹 **[🔑 Cryptography & Steganography Analysis](https://github.com/YOUR-USERNAME/crypto-stegano-lab)** – Breaking encrypted files & extracting hidden data using **OpenSSL & Steghide**  
-🔹 **[📜 CTF Writeups](https://github.com/YOUR-USERNAME/ctf-writeups)** – My **solutions & methodology** for cybersecurity Capture-the-Flag challenges  
+
+🔹 **[📂 Forensic Image Analysis](https://github.com/YOUR-USERNAME/forensic-image-analysis)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Extracting & analyzing data from forensic disk images using **Autopsy & Volatility**  
+
+🔹 **[🕵️‍♂️ OSINT Intelligence Dashboard](https://github.com/YOUR-USERNAME/osint-dashboard)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Collecting & analyzing public data using **OSINT tools like Maltego & SpiderFoot**  
+
+🔹 **[🛡️ Malware Analysis Lab](https://github.com/YOUR-USERNAME/malware-lab)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Static & dynamic malware analysis with **Wireshark, YARA, and Cuckoo Sandbox**  
+
+🔹 **[🔓 Password Cracking & Hash Analysis](https://github.com/YOUR-USERNAME/password-cracking-lab)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Ethical password auditing using **John the Ripper & Hashcat**  
+
+🔹 **[📡 Network Traffic Analysis](https://github.com/YOUR-USERNAME/network-traffic-analysis)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Identifying intrusions & anomalies in network packets using **Wireshark & Suricata**  
+
+🔹 **[🔮 AI-Powered Phishing Detector](https://github.com/YOUR-USERNAME/phishing-detector)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Using **AI & NLP** to detect phishing emails based on headers & metadata  
+
+🔹 **[👣 Windows Incident Response Toolkit](https://github.com/YOUR-USERNAME/windows-ir-toolkit)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Investigating **Windows artifacts** (registry, logs, processes) for breach detection  
+
+🔹 **[🕶️ Dark Web Monitoring](https://github.com/YOUR-USERNAME/dark-web-monitoring)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Scraping & analyzing **dark web** forums for potential threats & leaks  
+
+🔹 **[🔑 Cryptography & Steganography Analysis](https://github.com/YOUR-USERNAME/crypto-stegano-lab)**  
+&nbsp;&nbsp;&nbsp;&nbsp;Breaking encrypted files & extracting hidden data using **OpenSSL & Steghide**  
+
+🔹 **[📜 CTF Writeups](https://github.com/YOUR-USERNAME/ctf-writeups)**  
+&nbsp;&nbsp;&nbsp;&nbsp;My **solutions & methodology** for cybersecurity Capture-the-Flag challenges  
+
 
 
 
