@@ -1,4 +1,6 @@
-# ⚔️ Blue Sword Intelligence Julie Wolf 🐺
+# ⚔️ Blue Sword Intelligence 
+
+##About me: Hello, welcome to my Portfolio, I am Julie Wolf 🐺
 
   
 🛡️ Cyber Security | Digital Forensics | Artificial Intelligence & Machine Learning  🤖⚡🧠 
