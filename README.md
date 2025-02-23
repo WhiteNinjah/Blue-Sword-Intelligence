@@ -7,6 +7,16 @@
 🛡️ Cyber Security | Digital Forensics | Artificial Intelligence & Machine Learning  🤖⚡🧠 
 
 
+
+
+Sprache	
+Python 🐍	Web Scraping, Hacking, Forensik, Automatisierung
+Bash 🖥️ (Linux Terminal)	Automatisierung, Netzwerk-Scanning, Server-Skripte
+PowerShell (Windows)	Windows-Automatisierung, Forensik, Hacking-Tools
+JavaScript (Node.js)	Web-Security, API-Skripte, Penetration Testing
+
+
+
 ## 🛠️ Technologies & Tools  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)  
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000?&logo=kalilinux)  
